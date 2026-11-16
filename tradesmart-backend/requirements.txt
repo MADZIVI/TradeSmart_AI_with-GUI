@@ -1,0 +1,16 @@
+
+# TradeSmart AI backend - Python dependencies
+#
+# Install with:   pip install -r requirements.txt
+#
+# pyodbc additionally needs the "ODBC Driver 17 for SQL Server" installed
+# on Windows separately (it's not a Python package) - see README.md.
+
+flask
+flask-cors
+python-dotenv
+pandas
+scikit-learn
+xgboost
+joblib
+pyodbc

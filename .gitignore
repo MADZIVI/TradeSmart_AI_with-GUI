@@ -1,0 +1,16 @@
+# ---- Python (tradesmart-backend) ----
+venv/
+__pycache__/
+*.pyc
+.env
+
+# ---- Node / React (tradesmart-aura) ----
+node_modules/
+
+# ---- Editor / OS junk ----
+.DS_Store
+Thumbs.db
+.vscode/
+
+# ---- Leftovers from cleanup ----
+_to_delete/
