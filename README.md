@@ -139,8 +139,7 @@ Bakkies hold value best (extended cab about 6.3% a year, double cab 8.2%); sedan
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
-cd <YOUR-REPOSITORY-FOLDER>
+git clone <https://github.com/MADZIVI/TradeSmart_AI_with-GUI/>
 ```
 
 ### 2. Set up the database
@@ -153,7 +152,6 @@ The web app has a one-click launcher that installs what it needs on first run:
 
 ```bash
 cd tradesmart-flask
-# run the launcher: <LAUNCHER-FILE-NAME>
 ```
 
 Then open the address shown in the terminal in any modern web browser.
