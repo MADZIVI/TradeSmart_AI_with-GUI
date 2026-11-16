@@ -167,13 +167,6 @@ python src/fix_dataset.py
 # python src/<TRAINING-SCRIPT>.py
 ```
 
-## Screenshots
-
-<!-- Add screenshots here -->
-| Vehicle search | Condition step | Result card |
-|---|---|---|
-| ![Vehicle search](docs/screenshots/vehicle-search.png) | ![Condition step](docs/screenshots/condition-step.png) | ![Result card](docs/screenshots/result-card.png) |
-
 ![Database tables in SSMS](docs/screenshots/database.png)
 
 ## Limitations
