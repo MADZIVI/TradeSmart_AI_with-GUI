@@ -25,6 +25,21 @@ TradeSmart AI is a chatbot that a dealership can place on its website or a showr
 
 > The estimate is a starting point, not an offer. A consultant confirms the final figure at inspection.
 
+# PRACTICAL SOLUTION IMAGES 
+1. https://github.com/MADZIVI/TradeSmart_AI_with-GUI/blob/main/Screenshot%202026-11-16%20232626.png
+
+2. https://github.com/MADZIVI/TradeSmart_AI_with-GUI/blob/main/Screenshot%202026-11-16%20232835.png
+
+3. https://github.com/MADZIVI/TradeSmart_AI_with-GUI/blob/main/Screenshot%202026-11-16%20232911.png
+
+4. https://github.com/MADZIVI/TradeSmart_AI_with-GUI/blob/main/Screenshot%202026-11-16%20232938.png
+
+5. https://github.com/MADZIVI/TradeSmart_AI_with-GUI/blob/main/Screenshot%202026-11-16%20232957.png
+
+6. https://github.com/MADZIVI/TradeSmart_AI_with-GUI/blob/main/Screenshot%202026-11-16%20233008.png
+
+7. https://github.com/MADZIVI/TradeSmart_AI_with-GUI/blob/main/image.png
+
 ## Key results
 
 All figures are on unseen test cars and averaged over 5 random 80/20 splits unless stated otherwise.
